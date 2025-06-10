@@ -48,7 +48,7 @@
   <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" alt="Facebook" height="45" width="45" />
 </a>
 <a href="mailto:adityasingh000029@gmail.com" target="blank">
-  <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" alt="YouTube" height="45" width="45" />
+  <img align="center" src="[https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg](https://skillicons.dev/icons?i=youtube)" alt="YouTube" height="45" width="45" />
 </a>
 
 ---
@@ -56,7 +56,7 @@
 ## 💻 Languages & Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,mysql,java,instagram,twitter,facebook,youtube&perline=3" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,mysql,java&perline=3" />
   </a>
 </p>
 
