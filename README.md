@@ -15,9 +15,9 @@
 
 ## 🎓 Education:
 - **Gyan Deep Shiksha Bharati**
-  - **10th:** 75.0  
+  - **10th:** 75.0% 
 - **Romex International School**
-  - **12th:** 74.5  
+  - **12th:** 74.5% 
 - **Bachelor's of Technology (Ongoing)**
   - **CGPA:** 80.6  
 
@@ -39,7 +39,7 @@
   <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" alt="Gmail" height="45" width="45" />
 </a>
 <a href="mailto:adityasingh000029@gmail.com" target="blank">
-  <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram-Light.svg" alt="Instagram" height="45" width="45" />
+  <img align="center" src="icons/Instagram.svg" alt="Instagram" height="45" width="45" />
 </a>
 <a href="mailto:adityasingh000029@gmail.com" target="blank">
   <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" alt="Twitter" height="45" width="45" />
