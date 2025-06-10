@@ -51,7 +51,7 @@
 ## 💻 Languages & Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,mysql,java,php,bootstrap,django,react,git,github&perline=3" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,mysql,java,php,bootstrap,django,react,git,github,powerbi&perline=3" />
   </a>
 </p>
 
