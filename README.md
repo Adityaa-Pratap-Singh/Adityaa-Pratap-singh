@@ -38,12 +38,13 @@
 <a href="mailto:adityasingh000029@gmail.com" target="blank">
   <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" alt="Gmail" height="45" width="45" />
 </a>
-<a href="mailto:adityasingh000029@gmail.com" target="blank">
+<a href="https://www.instagram.com/its_aditya243?igsh=ejQwYWp5bHU1aDdz&utm_source=qr" target="blank">
   <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="45" width="45" />
 </a>
 <a href="mailto:adityasingh000029@gmail.com" target="blank">
-  <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" alt="Twitter" height="45" width="45" />
+  <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="45" width="45" />
 </a>
+
 
 ---
 
