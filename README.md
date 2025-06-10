@@ -3,9 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&size=35&duration=2000&pause=500&color=FFFFFF&background=000000&center=true&vCenter=true&multiline=true&random=false&width=1000&height=110&lines=Hey!+I'm Adityaa Pratap Singh!;Welcome to my GitHub Profile!" alt="Typing SVG">
-  </a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey%2C+My+name+is+Aditya!;Welcome+to+my+Github+profile" alt="Typing SVG" /></a>
 </p>
 
 ## 😎 About Me
