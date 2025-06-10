@@ -1,16 +1,72 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github.com/Adityaa-Pratap-singh/Adityaa-Pratap-singh/assets/149650718/97729ab6-a158-4a21-83e0-0bdebee3319b" alt="git_thought">
+</p>
 
-<!--
-**Adityaa-Pratap-singh/Adityaa-Pratap-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&size=35&duration=2000&pause=500&color=FFFFFF&background=000000&center=true&vCenter=true&multiline=true&random=false&width=1000&height=110&lines=Hey!+I'm Adityaa Pratap Singh!;Welcome to my GitHub Profile!" alt="Typing SVG">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+## 😎 About Me
+🚀 Passionate about problem-solving and technology. I thrive in dynamic environments and love creating innovative solutions.  
+🎓 Pursuing B.Tech Honours in Computer Science with AI and Analytics at GLA University.  
+🔍 Always eager to learn, explore new technologies, and contribute to exciting projects!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎓 Education:
+- **Bachelor's of Technology (Ongoing)**
+  - **CGPA:** 9.0  
+
+---
+
+## 💼 Experience:
+- **Prodigy InfoTech** *(June 2024)*  
+  - **Role:** Data Analyst  
+
+- **CodSoft** *(June 2024)*  
+  - **Role:** Python Programming  
+
+---
+
+## 🏆 Certifications & Publications:
+- **Python for Data Science, AI & Development** – IBM COURSERA  
+- **Introduction to Basic Game Development using Scratch** – COURSERA  
+- **Create a Website using WordPress: Free Hosting & Sub-domain** – COURSERA  
+- **HTML, CSS & JavaScript for Web Developers** – COURSERA  
+
+---
+
+## 🌐 Connect with Me:
+<a href="https://www.linkedin.com/in/adityaa-pratap-singh/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/47e2fb9bc1353315f589ad5ce992b4f7debf2e48/icons/LinkedIn.svg" alt="LinkedIn" height="45" width="45" />
+</a>
+<a href="mailto:adityaapratapsingh@gmail.com" target="blank">
+  <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" alt="Gmail" height="45" width="45" />
+</a>
+
+---
+
+## 💻 Languages & Tools:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,mysql,ai,sklearn,wordpress&perline=3" />
+  </a>
+</p>
+
+---
+
+## 🏆 Holopin Badges:
+[![Holopin Badges](https://holopin.me/adityaa-pratap-singh)](https://holopin.io/@adityaa-pratap-singh)
+
+---
+
+## ✍ Random Dev Quote:
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
+</p>
+
+---
+
+Feel free to copy this and update your `README.md` file! Let me know if you’d like further refinements or a different touch. 🚀
