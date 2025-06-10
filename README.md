@@ -24,10 +24,25 @@
 ---
 
 ## 🏆 Certifications & Publications:
-- **Python for Data Science, AI & Development** – IBM COURSERA  
-- **Introduction to Basic Game Development using Scratch** – COURSERA  
-- **Create a Website using WordPress: Free Hosting & Sub-domain** – COURSERA  
-- **HTML, CSS & JavaScript for Web Developers** – COURSERA  
+- **Advanced Learning Algorithms** – Stanford COURSERA  
+- **Using Python to Interact with the Operating System** – Google COURSERA  
+- **Project Management Essentials** – HOWARD UNIVERSITY COURSERA  
+- **Data Visualization with Python** – IBM COURSERA  
+- **Supervised Machine Learning: Regression and Classification** – Stanford COURSERA  
+- **AI Mastery: Unlocking the Power of Artificial Intelligence** – NEC Edulateral Foundation  
+- **Introduction to Databases** – Meta COURSERA  
+- **Object Oriented Programming in Java** – UCSan Diego COURSERA  
+- **CSS** – HackerRank  
+- **Introduction to Git and GitHub** – Google COURSERA 
+- **SQL** – HackerRank  
+- **Introduction to Structured Query Language** – UNIVERSITY OF MICHIGAN COURSERA
+- **Django Web Framework** – Meta COURSERA  
+- **HTML, CSS & JavaScript for Web Developers** – Johns Hopkins University COURSERA  
+- **AI – Advanced Programming** – NEC Edulateral Foundation  
+- **AI Algorithm Development with Python** – Intel® Unnati Edulateral Foundation  
+- **Innovation Through Design: Think, Make, Break, Repeat** – The University of Sydney COURSERA  
+- **AI Algorithm Development with Python** – NEC Edulateral Foundation  
+- **Intro to AR/VR/MR/XR: Technologies, Applications & Issues** – UNIVERSITY OF MICHIGAN COURSERA  
 
 ---
 
@@ -55,13 +70,6 @@
   </a>
 </p>
 
----
 
-## ✍ Random Dev Quote:
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
-</p>
-
----
 
 Feel free to copy this and update your `README.md` file! Let me know if you’d like further refinements or a different touch. 🚀
