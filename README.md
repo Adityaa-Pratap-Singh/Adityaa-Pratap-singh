@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Adityaa-Pratap-singh/Adityaa-Pratap-singh/assets/149650718/97729ab6-a158-4a21-83e0-0bdebee3319b" alt="git_thought">
+  <img src="https://github.com/Adityaa-Pratap-singh/Adityaa-Pratap-singh/assets/149650718/97729ab6-a158-4a21-83e0-0bdebee3319b" alt="Aditya">
 </p>
 
 <p align="center">
@@ -17,16 +17,7 @@
 
 ## 🎓 Education:
 - **Bachelor's of Technology (Ongoing)**
-  - **CGPA:** 9.0  
-
----
-
-## 💼 Experience:
-- **Prodigy InfoTech** *(June 2024)*  
-  - **Role:** Data Analyst  
-
-- **CodSoft** *(June 2024)*  
-  - **Role:** Python Programming  
+  - **CGPA:** 8.0  
 
 ---
 
@@ -39,10 +30,10 @@
 ---
 
 ## 🌐 Connect with Me:
-<a href="https://www.linkedin.com/in/adityaa-pratap-singh/" target="blank">
+<a href="https://www.linkedin.com/in/aditya-pratap-singh-411478289/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/47e2fb9bc1353315f589ad5ce992b4f7debf2e48/icons/LinkedIn.svg" alt="LinkedIn" height="45" width="45" />
 </a>
-<a href="mailto:adityaapratapsingh@gmail.com" target="blank">
+<a href="mailto:adityasingh000029@gmail.com" target="blank">
   <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" alt="Gmail" height="45" width="45" />
 </a>
 
