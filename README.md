@@ -70,6 +70,6 @@
   </a>
 </p>
 
-
+---
 
 Feel free to copy this and update your `README.md` file! Let me know if you’d like further refinements or a different touch. 🚀
