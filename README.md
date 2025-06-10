@@ -48,11 +48,6 @@
 
 ---
 
-## 🏆 Holopin Badges:
-[![Holopin Badges](https://holopin.me/adityaa-pratap-singh)](https://holopin.io/@adityaa-pratap-singh)
-
----
-
 ## ✍ Random Dev Quote:
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
