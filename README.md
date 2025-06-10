@@ -14,8 +14,12 @@
 ---
 
 ## 🎓 Education:
+- **Gyan Deep Shiksha Bharati**
+  - **10th:** 75.0  
+- **Romex International School**
+  - **12th:** 74.5  
 - **Bachelor's of Technology (Ongoing)**
-  - **CGPA:** 8.0  
+  - **CGPA:** 80.6  
 
 ---
 
