@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Adityaa-Pratap-singh/Adityaa-Pratap-singh/assets/149650718/97729ab6-a158-4a21-83e0-0bdebee3319b" alt="Aditya">
+  <img src="[https://github.com/Adityaa-Pratap-singh/Adityaa-Pratap-singh/assets/149650718/97729ab6-a158-4a21-83e0-0bdebee3319b](https://github.com/Adityaa-Pratap-singh/Adityaa-Pratap-singh/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)" alt="Aditya">
 </p>
 
 <p align="center">
