@@ -24,6 +24,7 @@
 ---
 
 ## 🏆 Certifications:
+- **Meta Frontend Developer** – Meta COURSERA  
 - **Advanced Learning Algorithms** – Stanford COURSERA  
 - **Using Python to Interact with the Operating System** – Google COURSERA  
 - **Project Management Essentials** – HOWARD UNIVERSITY COURSERA  
