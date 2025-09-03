@@ -57,9 +57,9 @@
 <a href="mailto:adityasingh000029@gmail.com" target="blank">
   <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="45" width="45" />
 </a>
-<a href="mailto:adityasingh000029@gmail.com" target="blank">
+<!-- <a href="mailto:adityasingh000029@gmail.com" target="blank">
   <img align="center" src="https://skillicons.dev/icons?i=facebook" alt="Facebook" height="45" width="45" />
-</a>
+</a> -->
 
 
 ---
