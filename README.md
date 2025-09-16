@@ -77,4 +77,6 @@
 <p align="center">
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=its_aditya243&theme=nightowl&animated=true" />
 </p>
+
+---
 Feel free to copy this and update your `README.md` file! Let me know if you’d like further refinements or a different touch. 🚀
