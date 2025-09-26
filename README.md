@@ -77,6 +77,15 @@
 <p align="center">
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=its_aditya243&theme=radical&animated=true&filter=annual" />
 </p>
+<div style="background: linear-gradient(135deg,#1e293b,#0f172a); 
+            border-radius: 20px; 
+            padding: 20px; 
+            box-shadow: 0 4px 15px rgba(0,0,0,0.4); 
+            display:inline-block;">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=its_aditya243&theme=tokyonight&animated=true&filter=annual" 
+       style="border-radius: 12px;" />
+</div>
+
 
 ---
 Feel free to copy this and update your `README.md` file! Let me know if you’d like further refinements or a different touch.
