@@ -7,7 +7,7 @@
 </p>
 
 ## 😎 About Me
-🚀 Passionate about problem-solving and technology. I thrive in dynamic environments and love creating innovative solutions.  
+🚀 Passionate about problem-solving and technology. I thrive in dynamic environments and love creating innovative solutions. 
 🎓 Pursuing B.Tech Honours in Computer Science with AI and Analytics at GLA University.  
 🔍 Always eager to learn, explore new technologies, and contribute to exciting projects!
 
