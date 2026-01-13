@@ -23,6 +23,13 @@
 
 ---
 
+### 📬 Contact Me
+- ✉️ Email: **adityasingh000029@gmail.com**  
+- 🌐 Portfolio: https://adityaa-pratap-singh.github.io/My_Portfolio/ 
+- 💼 Resume:  
+
+---
+
 ## 🏆 Certifications:
 - **Meta Frontend Developer** – Meta COURSERA  
 - **Advanced Learning Algorithms** – Stanford COURSERA  
