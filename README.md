@@ -29,6 +29,10 @@
 - 💼 Resume:  
 
 ---
+ 
+- 🌐 Codolio: https://codolio.com/profile/Aditya_Pratap_Singh
+
+---
 
 ## 🏆 Certifications:
 - **Meta Frontend Developer** – Meta COURSERA  
