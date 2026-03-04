@@ -17,7 +17,7 @@
 - **Gyan Deep Shiksha Bharati**
   - **10th:** 75.0% 
 - **Romex International School**
-  - **12th:** 74.5% 
+  - **12th:** 74.4% 
 - **Bachelor's of Technology (Ongoing)**
   - **CGPA:** 80.5  
 
