@@ -60,15 +60,16 @@
 
 ## 🌐 Connect with Me:
 <p align="left">
-<a href="https://www.linkedin.com/in/aditya-pratap-singh-411478289/" target="_blank">
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/47e2fb9bc1353315f589ad5ce992b4f7debf2e48/icons/LinkedIn.svg" height="45" width="45" />
-</a><a href="https://www.instagram.com/its_aditya243?igsh=ejQwYWp5bHU1aDdz&utm_source=qr" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="45" width="45" />
-</a><a href="mailto:adityasingh000029@gmail.com" target="_blank">
-<img src="https://skillicons.dev/icons?i=gmail" height="45" width="45" />
-</a>
+  <a href="https://www.linkedin.com/in/aditya-pratap-singh-411478289/" target="_blank">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/47e2fb9bc1353315f589ad5ce992b4f7debf2e48/icons/LinkedIn.svg" height="45" width="45" />
+  </a>
+  <a href="https://www.instagram.com/its_aditya243?igsh=ejQwYWp5bHU1aDdz&utm_source=qr" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="45" width="45" />
+  </a>
+  <a href="mailto:adityasingh000029@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" width="45" />
+  </a>
 </p>
-
 ---
 
 ## 💻 Languages & Tools:
