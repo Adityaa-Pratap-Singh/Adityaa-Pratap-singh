@@ -59,19 +59,21 @@
 ---
 
 ## 🌐 Connect with Me:
-<a href="https://www.linkedin.com/in/aditya-pratap-singh-411478289/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/47e2fb9bc1353315f589ad5ce992b4f7debf2e48/icons/LinkedIn.svg" alt="LinkedIn" height="45" width="45" />
-</a>
+<p align="left" style="display: flex; gap: 12px; align-items: center;">
 
-<a href="https://www.instagram.com/its_aditya243?igsh=ejQwYWp5bHU1aDdz&utm_source=qr" target="blank">
-  <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="45" width="45" />
-</a>
-<a href="mailto:adityasingh000029@gmail.com" target="blank">
-  <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="45" width="45" />
-</a>
-<!-- <a href="mailto:adityasingh000029@gmail.com" target="blank">
-  <img align="center" src="https://skillicons.dev/icons?i=facebook" alt="Facebook" height="45" width="45" />
-</a> -->
+  <a href="https://www.linkedin.com/in/aditya-pratap-singh-411478289/" target="_blank">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/47e2fb9bc1353315f589ad5ce992b4f7debf2e48/icons/LinkedIn.svg" alt="LinkedIn" height="45" width="45" />
+  </a>
+
+  <a href="https://www.instagram.com/its_aditya243?igsh=ejQwYWp5bHU1aDdz&utm_source=qr" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="45" width="45" />
+  </a>
+
+  <a href="mailto:adityasingh000029@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="45" width="45" />
+  </a>
+
+</p>
 
 
 ---
