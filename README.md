@@ -59,7 +59,7 @@
 ---
 
 ## 🌐 Connect with Me:
-<p align="left" style="display: flex; gap: 12px; align-items: center;">
+<p align="center" style="display:flex; gap: 12px; align-items: center;">
   <a href="https://www.linkedin.com/in/aditya-pratap-singh-411478289/" target="_blank">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/47e2fb9bc1353315f589ad5ce992b4f7debf2e48/icons/LinkedIn.svg" height="45" width="45" />
   </a>
