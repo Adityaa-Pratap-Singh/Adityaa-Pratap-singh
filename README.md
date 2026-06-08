@@ -19,7 +19,7 @@
 - **Romex International School**
   - **12th:** 74.4% 
 - **Bachelor's of Technology (Ongoing)**
-  - **CGPA:** 80.5  
+  - **CGPA:** 82.0  
 
 ---
 
